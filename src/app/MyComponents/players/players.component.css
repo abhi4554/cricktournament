@@ -1,0 +1,13 @@
+table, th, td{
+    border: 1px solid black;
+    text-align: center;
+    background-color: darksalmon;
+}
+div{
+    font-family: system-ui;
+    background:teal;
+    color:whitesmoke;
+  } 
+  h1{
+      text-align: center;
+  }
